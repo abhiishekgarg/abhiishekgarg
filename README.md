@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiishekgarg&label=Profile%20views&color=0e75b6&style=flat" alt="abhiishekgarg" /> </p>
 
-- 💬 Ask me about **node and backend dev**
+- 💬 Ask me about **data structures, algorithms, node and backend dev**
 
 - 📫 How to reach me **abhiishekgarg@gmail.com**
 
