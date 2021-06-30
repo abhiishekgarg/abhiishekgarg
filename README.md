@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhiishekgarg@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/36KCuzy](https://bit.ly/36KCuzy)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abhiishekgarg/](https://www.linkedin.com/in/abhiishekgarg/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
