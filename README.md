@@ -15,10 +15,6 @@
 <a href="https://twitter.com/abhiishekgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abhiishekgarg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhiishekgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhiishekgarg" height="30" width="40" /></a>
 <a href="https://fb.com/abhiishekgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abhiishekgarg" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishekgarggg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhishekgarggg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishek_garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek_garg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishekgarg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="abhishekgarg" height="30" width="40" /></a>
-<a href="https://discord.gg/6427" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="6427" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
