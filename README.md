@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Garg</h1>
-<h3 align="center">Budding Software Engineer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiishekgarg&label=Profile%20views&color=0e75b6&style=flat" alt="abhiishekgarg" /> </p>
 
-- 💬 Ask me about **data structures, algorithms, node and backend dev**
+- 💬 Ask me about **C++, data structures, algorithms, node and backend dev**
 
 - 📫 How to reach me **abhiishekgarg@gmail.com**
 
